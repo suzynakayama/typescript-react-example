@@ -2,6 +2,6 @@
 
 `npx create-react-app <name of project> --typescript`
 
-#### Following YouTube Video
+#### YouTube Video
 
-[Link](https://www.youtube.com/watch?v=Z5iWr6Srsj8)
+Followed YT video: [Link](https://www.youtube.com/watch?v=Z5iWr6Srsj8)
